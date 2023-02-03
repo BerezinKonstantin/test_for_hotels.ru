@@ -1,0 +1,1 @@
+# test_for_hotels.ru
